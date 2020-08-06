@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: url(https://images.unsplash.com/photo-1513258496099-48168024aec0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.col-md-5{
+    background: rgba(0,0,0,0.5);
+    margin-top: 10px;
+}
+.label{
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.input-group{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.input-group-addon{
+    background: transparent;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid gray;
+    font-size: 18px;
+    color: gray;
+}
+
+.form-control{
+    background: transparent;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid gray;
+    padding: 15px;
+    color: white;
+    font-size: 21px;
+}
+
+input[type="checkbox"]{
+    height: 15px;
+    width: 15px;
+}
+
+small{
+    font-size: 17px;
+    color: white;
+}
+p{
+    font-size: 18px;
+    color: white;
+}
+.btn-default{
+    border: 0px;
+    width: 457px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+    color: white;
+}
+nav{
+    color: white;
+}
